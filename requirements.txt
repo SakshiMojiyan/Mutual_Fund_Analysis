@@ -1,0 +1,11 @@
+| Package    | Purpose                          |
+| ---------- | -------------------------------- |
+| pandas     | Data loading, cleaning, analysis |
+| numpy      | Numerical operations             |
+| matplotlib | Basic visualizations             |
+| seaborn    | Statistical plots                |
+| plotly     | Interactive charts               |
+| sqlalchemy | Database connectivity            |
+| requests   | API calls (MFAPI)                |
+| scipy      | Statistical analysis             |
+| jupyter    | Jupyter notebooks                |
